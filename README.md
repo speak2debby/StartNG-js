@@ -1,0 +1,2 @@
+# StartNG-js
+simple javasript
